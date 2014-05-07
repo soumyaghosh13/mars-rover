@@ -2,9 +2,11 @@
 
 $ rake -T
 
-rake batch        # Run the app in batch mode
-rake interactive  # Run the app in interactive mode
-rake spec         # Run RSpec code examples
+$ rake batch        # Run the app in batch mode
+
+$ rake interactive  # Run the app in interactive mode
+
+$ rake spec         # Run RSpec code examples
 
 
  - The batch mode will run the example input from the specification.
